@@ -5,9 +5,11 @@ Dataset used
 < a href :https://github.com/viswanadha123456/Data-Analysis-Dashboard-Power-bi-/blob/main/Zepto%20grocery%20data.csv>
 
 **Kpi-Key Parameter Indiactors**
-1.Total Sales: The overall revenue generated from all items sold.
+1.Total Sales: The overall revenue generated from all items sold.                                                            
 2.Average Sales: The average revenue per sale.
+
 3.Number of Items: The total count of different items sold.
+
 4.Average Rating: The average customer rating for items sold.
 
 **Granular chart Requirements**
