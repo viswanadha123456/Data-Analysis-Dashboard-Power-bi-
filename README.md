@@ -4,13 +4,13 @@ I developed a Zepto Sales Dashboard in Power BI to analyze sales performance and
 Dataset used
 < a href :https://github.com/viswanadha123456/Data-Analysis-Dashboard-Power-bi-/blob/main/Zepto%20grocery%20data.csv>
 
-Kpi-Key Parameter Indiactors
-Total Sales: The overall revenue generated from all items sold.
-Average Sales: The average revenue per sale.
-Number of Items: The total count of different items sold.
-Average Rating: The average customer rating for items sold.
+**Kpi-Key Parameter Indiactors**
+1.Total Sales: The overall revenue generated from all items sold.
+2.Average Sales: The average revenue per sale.
+3.Number of Items: The total count of different items sold.
+4.Average Rating: The average customer rating for items sold.
 
-Granular chart Requirements
+**Granular chart Requirements**
 1. Total Sales by Fat Content:
 	Objective: Analyze the impact of fat content on total sales.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
